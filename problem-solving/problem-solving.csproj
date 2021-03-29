@@ -6,4 +6,7 @@
     <RootNamespace>problem_solving</RootNamespace>
   </PropertyGroup>
 
+  <ItemGroup>
+    <ProjectReference Include="..\leetcode\leetcode.csproj" />
+  </ItemGroup>
 </Project>
